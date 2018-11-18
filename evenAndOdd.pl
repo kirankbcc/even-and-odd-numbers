@@ -2,7 +2,7 @@
 
 ##########################################
 # FileName: evenAndOdd.pl
-# Description: Generate PascalsTriangle
+# Description: Generate even and odd numbers
 #
 # CreatedBy: Kiran Babu Chinnam on 18-11-2018
 # ModifiedBy: Kiran Babu Chinnam on 19-11-2018
